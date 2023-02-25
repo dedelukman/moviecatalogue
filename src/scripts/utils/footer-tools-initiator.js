@@ -1,3 +1,4 @@
+/* eslint-disable no-alert */
 /* eslint-disable comma-dangle */
 /* eslint-disable no-plusplus */
 /* eslint-disable no-empty-function */
