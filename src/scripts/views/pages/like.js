@@ -6,7 +6,7 @@ const Like = {
     return `
             <div class="content">
                 <h2 class="content__heading">Your Linked Movie</h2>
-                <div id="movies" class="movies"><div>
+                <div id="movies" class="movies">
             </div>
         `;
   },
